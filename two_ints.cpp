@@ -1,5 +1,6 @@
 /*
-A program to request two integers from the user and print their product.
+  * 1.2
+  * A program to request two integers from the user and print their product.
 */
 
 #include <iostream>

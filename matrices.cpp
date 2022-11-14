@@ -1,5 +1,6 @@
 /*
-Find the sum and multiplication of two 2x2 matrices.
+  * 1.4
+  * Find the sum and multiplication of two 2x2 matrices.
 */
 
 #include <iostream>

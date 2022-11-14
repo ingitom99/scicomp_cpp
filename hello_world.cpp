@@ -1,5 +1,6 @@
 /*
-This program will greet the world!
+ * 1.1
+ * This program will greet the world!
 */
 
 #include <iostream>

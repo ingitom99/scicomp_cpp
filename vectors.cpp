@@ -1,5 +1,6 @@
 /*
-Request the entries of two length 3 vectors and return the dot product and Euclidean norms.
+  * 1.3
+  * Request the entries of two length 3 vectors and return the dot product and Euclidean norms.
 */
 
 #include <iostream>
